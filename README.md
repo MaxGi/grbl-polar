@@ -1,6 +1,10 @@
 ![GitHub Logo](https://github.com/gnea/gnea-Media/blob/master/Grbl%20Logo/Grbl%20Logo%20250px.png?raw=true)
 ***
 
+### This is an attempt at running a polar plotter with grbl
+
+***
+
 ### Grbl v1.1 has been released [here](https://github.com/gnea/grbl/releases)!
 ### Notice: This site will be phased out and moved to the new one!
 
